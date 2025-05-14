@@ -1,3 +1,7 @@
-Cấp quyền thực thi: chmod +x make.sh
+Script build packages cho 4 phiên bản: Rootfull, Rootless, Roothide, Non Root
 
-Chạy:        ./make.sh
+Cấp quyền thực thi
+chmod +x make.sh
+
+Chạy script        
+./make.sh
