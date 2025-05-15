@@ -5,6 +5,6 @@ chmod +x make.sh
 
 Chạy script:        
 ./make.sh
-![review](https://img.upanh.tv/2025/05/14/Demo.png)  
+![review](https://img.upanh.tv/2025/05/14/Demo.png) 
 ![review](https://img.upanh.tv/2025/05/15/image14a5e03cf70f4471.png)
 
